@@ -1,7 +1,6 @@
 django
 gunicorn
 django-heroku
-random
 pyTelegramBotAPI
 python-telegram-bot
 requests
