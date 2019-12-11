@@ -1,1 +1,1 @@
-worker: python telega_bot_ready.py $PORT
+worker: python telega_bot_ready.py
